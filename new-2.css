@@ -1,0 +1,41 @@
+body {
+  background:#a9c5d9;
+}
+
+h3 {
+  font-weight: 500;
+  text-align: left;
+}
+
+h1 {color:#d12c2c;
+  font-weight: 700;
+  font-family: cursive;
+}
+
+p{font-weight:300;
+  font-family:cursive;}
+
+img{
+  margin:50px;
+float:center;
+  border-style:dashed;
+  border-color:#375466;
+    border-width:10px;
+}
+
+.ps{
+ font-family: cursive;
+  color:#2411d1;
+}
+
+.xbox{
+  font-family:inherit;
+  color:#15d642;}
+
+.switch{
+  color:#d6152c;
+  font-family: monospace;
+}
+
+.wiiu{color:#1784d1;
+  font-family:serif }
